@@ -116,5 +116,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/napari](https://github.com/conda-forge/napari/)
+* [@goanpeca](https://github.com/goanpeca/)
+* [@jaimergp](https://github.com/jaimergp/)
 
